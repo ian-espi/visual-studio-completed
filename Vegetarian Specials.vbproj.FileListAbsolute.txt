@@ -1,0 +1,12 @@
+C:\Users\Ian Espinosa\Desktop\COSP 8\Vegetarian Specials\Vegetarian Specials\bin\Debug\Vegetarian Specials.exe.config
+C:\Users\Ian Espinosa\Desktop\COSP 8\Vegetarian Specials\Vegetarian Specials\bin\Debug\Vegetarian Specials.exe
+C:\Users\Ian Espinosa\Desktop\COSP 8\Vegetarian Specials\Vegetarian Specials\bin\Debug\Vegetarian Specials.pdb
+C:\Users\Ian Espinosa\Desktop\COSP 8\Vegetarian Specials\Vegetarian Specials\bin\Debug\Vegetarian Specials.xml
+C:\Users\Ian Espinosa\Desktop\COSP 8\Vegetarian Specials\Vegetarian Specials\obj\Debug\Vegetarian Specials.vbprojAssemblyReference.cache
+C:\Users\Ian Espinosa\Desktop\COSP 8\Vegetarian Specials\Vegetarian Specials\obj\Debug\Vegetarian_Specials.VegetarianSpecials.resources
+C:\Users\Ian Espinosa\Desktop\COSP 8\Vegetarian Specials\Vegetarian Specials\obj\Debug\Vegetarian_Specials.Resources.resources
+C:\Users\Ian Espinosa\Desktop\COSP 8\Vegetarian Specials\Vegetarian Specials\obj\Debug\Vegetarian Specials.vbproj.GenerateResource.cache
+C:\Users\Ian Espinosa\Desktop\COSP 8\Vegetarian Specials\Vegetarian Specials\obj\Debug\Vegetarian Specials.vbproj.CoreCompileInputs.cache
+C:\Users\Ian Espinosa\Desktop\COSP 8\Vegetarian Specials\Vegetarian Specials\obj\Debug\Vegetarian Specials.exe
+C:\Users\Ian Espinosa\Desktop\COSP 8\Vegetarian Specials\Vegetarian Specials\obj\Debug\Vegetarian Specials.xml
+C:\Users\Ian Espinosa\Desktop\COSP 8\Vegetarian Specials\Vegetarian Specials\obj\Debug\Vegetarian Specials.pdb

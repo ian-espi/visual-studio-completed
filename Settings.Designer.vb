@@ -64,9 +64,9 @@ Namespace My
     Friend Module MySettingsProperty
 
         <Global.System.ComponentModel.Design.HelpKeywordAttribute("My.Settings")> _
-        Friend ReadOnly Property Settings() As Global.PizzaSelection.My.MySettings
+        Friend ReadOnly Property Settings() As Global.Vegetarian_Specials.My.MySettings
             Get
-                Return Global.PizzaSelection.My.MySettings.Default
+                Return Global.Vegetarian_Specials.My.MySettings.Default
             End Get
         End Property
     End Module

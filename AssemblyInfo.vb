@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("PizzaSelection")>
+<Assembly: AssemblyTitle("Vegetarian Specials")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("PizzaSelection")>
+<Assembly: AssemblyProduct("Vegetarian Specials")>
 <Assembly: AssemblyCopyright("Copyright ©  2020")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("cbf26c21-30a2-40a0-9245-ba7b5cf4ef95")>
+<Assembly: Guid("19f2c4af-1eb5-466c-9d6c-de31bf23b57e")>
 
 ' Version information for an assembly consists of the following four values:
 '
